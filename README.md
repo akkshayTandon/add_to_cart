@@ -16,4 +16,4 @@ A simple app to make your shopping list
 2) click on the item to delete it from the list
 
 ## Deployment
-view the project here - [Add To Cart](https://akkshay-tandon-add-to-cart.web.app/)
+view the project here - [Add To Cart](https://akkshay-tandon-add-to-cart.web.app/){:target="_blank"}
