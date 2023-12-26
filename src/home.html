@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="../index.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    
+    <link rel="manifest" href="/site.webmanifest">
+    <title>Add To Cart</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 style="text-align: center;">Welcome to the App</h1>
+        <button id="sign-out-btn">Sign Out</button>
+        <!-- <button id="delete-account-btn">Delete Account</button> -->
+        <img src="/img/cart-logo.png" alt="cart-logo" id="cart-logo">
+        <input type="text" name="" id="input-field" placeholder="Bread">
+        <button id="add-button">Add to cart</button>
+        
+        <ul id="shopping-list">
+
+        </ul>
+    </div>
+
+    <script src="/src/logOut.js" type="module"></script>
+    <script src="/src/firebaseConfig.js" type="module"></script>
+    <script src="/src/readDb.js" type="module"></script>
+</body>
+
+</html>
