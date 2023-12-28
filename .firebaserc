@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "add-to-cart-e8426"
-  }
+    "default": "add-to-cart-e8426",
+    "akkshay-tandon-add-to-cart": "add-to-cart-e8426"
+  },
+  "targets": {},
+  "etags": {}
 }
