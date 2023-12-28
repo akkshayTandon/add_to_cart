@@ -17,5 +17,5 @@ A simple app to make your shopping list
 
 ## Deployment
 ---
-view the project here - [Add To Cart](https://akkshay-tandon-add-to-cart.web.app/)
+view the project here - [Add To Cart](https://add-to-cart-e8426.web.app/)
 ---
